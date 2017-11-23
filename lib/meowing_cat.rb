@@ -4,6 +4,6 @@ class Cat
 
   def maru.meow
     puts "meow"
-  end  
+  end
 
 end
