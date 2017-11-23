@@ -7,4 +7,4 @@ class Cat
   end
 end
 
-Cat
+Cat.meowing_cat
